@@ -1,0 +1,4 @@
+QA Engineer July 2021 - Nov 2022
+Avaamo Technologies Chennai,India
+Developed regression test suites & unit test cases of 8+ applications in different frameworks: Junit, TestNG, Pytest.
+Built test automation pipelines, integrated coverage tools such as cobertura, Jacaco, sonarqube etc,

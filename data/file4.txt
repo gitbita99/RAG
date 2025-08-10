@@ -1,0 +1,7 @@
+Date Engineer Jan 2023 - Jan 2025
+Torry Harris Bengaluru, India
+Built scalable GCP data pipelines (BigQuery, Dataflow, Cloud Functions) processing 3 TB/day of e-commerce events, improving throughput by 30% .
+Orchestrated ETL workflows with Airflow & PySpark, enforcing DAG-level retries and SLAs to reach 99.9% reliability while cutting manual effort by 25%.
+Designed star-schema data models and partitioned BigQuery tables that deliver <2 s query latency for fraud-detection and growth analytics dashboards.
+Containerized Spark and Airflow with Docker & Kubernetes, trimming infrastructure costs by 15% .
+Mentored 4 junior engineers on data-modeling & query optimization practices, boosting team velocity by 20%.

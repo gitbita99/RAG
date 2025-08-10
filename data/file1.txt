@@ -1,6 +1,0 @@
-Mohamed Abith
-linkedin.com/in/mohamedabith-ba9870176 | abithm99@gmail.com | +91-9791419493 | Bengaluru, India
-Certified GCP Data Engineer
-
-SUMMARY
-Results-driven Data Engineer with 3+ years designing and scaling analytics platforms that power product decisions for millions of users. Proven expertise in SQL, Python, Spark, and GCP to build secure, high-performance data models, ETL pipelines, and real-time dashboards. Adept at translating complex data into clear, actionable insights and partnering with engineering, data science & product teams to optimize growth and user experience across consumer and internal products.

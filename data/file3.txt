@@ -1,7 +1,0 @@
-PROFESSIONAL EXPERIENCE
-Data Engineer - 2 Feb 2025 - Present
-Verizon Data Services Bengaluru, India
-Developed SAP MDG BRF workflows to automate master-data governance, raising data quality scores by 15%.
-Built SAP MDG derivation, validation rules in ABAP/SQL, lifting data quality & cutting processing time by 10% .
-Built Airflow jobs to snapshot MDG tables, create dimensional models, and automate data-quality tests (Great Expectations), reducing critical data incidents by 30%.
-Authored Terraform modules for pipelines & logging, slashing spin-up to 20 min and enabling full observability across 3 services.

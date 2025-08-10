@@ -1,6 +1,0 @@
-SKILLS AND TECHNOLOGIES
-Programming: Python, Java, SQL, ABAP, C++.
-Cloud & Warehousing: Google Cloud (BigQuery, Dataflow, Cloud Functions, Composer) · AWS (EC2, S3).
-Big Data: PySpark, Spark (Batch & Streaming), Hive, Hadoop, Delta Lake, Looker, Tableau, Data Studio.
-DevOps and Orchestration: Airflow, Docker, Kubernetes, Terraform ; Streaming : Kafka, Flink
-Data Management: Data Modeling, ETL/ELT, SLA & Data Quality Monitoring, Logging & Alerting.

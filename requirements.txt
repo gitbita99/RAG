@@ -1,8 +1,0 @@
-faiss-cpu
-sentence-transformers
-transformers
-langchain
-pypdf
-torch
-accelerate
-langchain_ollama

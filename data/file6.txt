@@ -1,6 +1,0 @@
-PROJECTS
-QoS Automation - Airflow, Cloud Functions, BigQuery, Looker:
-• Automated ingestion and harmonization of multi-source telecom KPI data; achieved 99.98% accuracy and cut processing time by 25%. Delivered self-serve Looker dashboards that empower network teams to act on quality degradations within 15 min of occurrence.
-AXIAN Data Platform - Minio, Spark, Delta Lake, PostgreSQL, Airflow:
-• Engineered PySpark-powered ETL framework and Delta Lake architecture, accelerating data processing by 30% and reducing storage costs by 20% through incremental upserts.
-• Integrated Minio object storage with Spark Structured Streaming to enable near-real-time analytics and automated SLA monitoring.

@@ -1,8 +1,0 @@
-EDUCATION
-Software Development & Problem solving - Scaler Academy ( Online ) Completed : 2024
-Data processing at Scale, Big Data systems , Database management, cloud computing. India
-Bachelors in Technology - Anna University August 2017 - May 2021
-Data Structures & Algorithms, Object oriented design, Python programming. India
-CERTIFICATIONS AND OTHERS
-Certification: Google Cloud Professional Data Engineer; Hackathon: Silver, Verizon Global Data Challenge 2025.
-Soft skills: Storytelling with Data · Cross-functional Collaboration · Agile Delivery · Mentorship & Coaching.

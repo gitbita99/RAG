@@ -1,0 +1,9 @@
+langchain_core
+langchain
+langchain-community
+pathlib
+pypdf
+sentence-transformers
+chromadb
+langchain-huggingface
+langchain-ollama
